@@ -1,5 +1,5 @@
 {
-  "name": "node-example",
+  "name": "example",
   "version": "1.0.0",
   "description": "a example of node",
   "main": "index.js",
@@ -15,6 +15,6 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
-  }
+  },
+  "keywords": []
 }
-
